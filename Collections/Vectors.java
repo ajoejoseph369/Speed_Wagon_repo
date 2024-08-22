@@ -8,5 +8,6 @@ public class Vectors {
         vector.add("Bus");
 
         System.out.println("Vector: " + vector);
+        System.out.println("Vector Element at index 2: " + vector.get(2));
     }
 }

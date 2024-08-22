@@ -8,5 +8,6 @@ public class Linked_List {
         linkedList.add("Horse");
 
         System.out.println("LinkedList: " + linkedList);
+        System.out.println("LinkedList Element at index 0: " + linkedList.get(0));
     }
 }
